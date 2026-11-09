@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Generated model and data (add explicitly if instructor permits)
+student_model.pkl
+student_data.csv
+model_evaluation.json
+classification_report.txt
+
+# OS / editor
+.DS_Store
+.vscode/
